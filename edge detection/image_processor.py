@@ -141,6 +141,3 @@ if __name__ == "__main__":
     # Display the results
     processor.display_images()
 
-'''blur box or people
-face recogniton
-'''
